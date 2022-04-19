@@ -1,4 +1,4 @@
-# Demo App
+# RPM COUNTER Application for Assetto Corsa.
 
 App showing the RPM in an app window.
 
